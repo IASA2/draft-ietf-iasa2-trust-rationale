@@ -77,7 +77,7 @@
       IETF's Internet Administrative Oversight Committee (IAOC), which 
       is being phased out, have served as Trustees of the IETF Trust. 
       A proposal for a minimal change regarding this has been provided 
-      separately in draft-arkko-iasa2-trust-update.</t>
+      separately in draft-ietf-iasa2-trust-update.</t>
       
       <t>This companion memo provides some background on the details
       of the current IETF Trust arrangements, explains the effect of
@@ -212,6 +212,18 @@
 
     </section>
 
+    <section anchor="changes" title="Changes from Previous Versions">
+
+      <t>RFC Editor: Please remove this section upon publication.</t>
+
+      <t>The version draft-ietf-iasa2-trust-rationale-00.txt includes
+      only editorial and language updates.</t>
+
+      <t>The version draft-arkko-iasa2-trust-rationale-00.txt was the
+      initial version.</t>
+      
+    </section>
+
   </middle>
 
   <back>
@@ -228,7 +240,7 @@
       &RFC7979;
       &I-D.hall-iasa2-struct;
       
-      <reference anchor='I-D.arkko-iasa2-trust-update'>
+      <reference anchor='I-D.ietf-iasa2-trust-update'>
 	<front>
 	  <title>Update to the Selection of Trustees for the IETF Trust</title>
 
@@ -240,12 +252,12 @@
 	    <organization />
 	  </author>
 
-	  <date month='June' year='2018' />
+	  <date month='September' year='2018' />
 
 	</front>
-	<seriesInfo name='Internet-Draft' value='draft-arkko-iasa2-trust-update-00' />
+	<seriesInfo name='Internet-Draft' value='draft-ietf-iasa2-trust-update-00' />
 	<format type='TXT'
-		target='http://www.ietf.org/internet-drafts/draft-arkko-iasa2-trust-update-00.txt' />
+		target='http://www.ietf.org/internet-drafts/draft-ietf-iasa2-trust-update-00.txt' />
       </reference>
       
       <reference anchor="Trust-FD">
