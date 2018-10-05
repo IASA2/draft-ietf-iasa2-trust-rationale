@@ -224,6 +224,18 @@
       
     </section>
     
+    <section anchor="ack" title="Acknowledgements">
+      
+      <t>The author would like to thank other members of the earlier
+      IASA 2.0 design team who were Brian Haberman, Eric Rescorla,
+      Jason Livingood, Joe Hall, and Leslie Daigle. The authors would
+      also like to thank Alissa Cooper, Ted Hardie, Andrew Sullivan,
+      Brian Carpenter, Lucy Lynch, and John Levine for interesting
+      discussions in this problem space, and Tero Kivinen, Russ
+      Housley, and Meral Shirazipour for careful review.</t>
+
+    </section>
+
   </middle>
 
   <back>
@@ -271,18 +283,6 @@
       </reference>
 
     </references>
-
-    <section anchor="ack" title="Acknowledgements">
-      
-      <t>The author would like to thank other members of the earlier
-      IASA 2.0 design team who were Brian Haberman, Eric Rescorla,
-      Jason Livingood, Joe Hall, and Leslie Daigle. The authors would
-      also like to thank Alissa Cooper, Ted Hardie, Andrew Sullivan,
-      Brian Carpenter, Lucy Lynch, and John Levine for interesting
-      discussions in this problem space, and Tero Kivinen, Russ
-      Housley, and Meral Shirazipour for careful review.</t>
-
-    </section>
 
     <section anchor="changes" title="Changes from Previous Versions">
 
