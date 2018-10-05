@@ -18,7 +18,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-ietf-iasa2-trust-rationale-00" ipr="trust200902">
+<rfc category="info" docName="draft-ietf-iasa2-trust-rationale-01" ipr="trust200902">
 
   <front>
 
@@ -48,7 +48,7 @@
       </address>
     </author>
     
-    <date month="September" year="2018" />
+    <date month="October" year="2018" />
 
     <area>General</area>
 
