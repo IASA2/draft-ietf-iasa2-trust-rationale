@@ -1,5 +1,5 @@
 
-PREV=	draft-arkko-iasa2-trust-rationale-00.txt
+PREV=	draft-ietf-iasa2-trust-rationale-00.txt
 ALL=	draft-ietf-iasa2-trust-rationale.txt \
 	draft-ietf-iasa2-trust-rationale-diff.html
 
@@ -11,7 +11,7 @@ draft-ietf-iasa2-trust-rationale-diff.html:	draft-ietf-iasa2-trust-rationale.xml
 	ssh jar@arkko.eu xml2rfc draft-ietf-iasa2-trust-rationale.xml
 	ssh jar@arkko.eu rfcdiff $(PREV) draft-ietf-iasa2-trust-rationale.txt
 	scp jar@arkko.eu:draft-ietf-iasa2-trust-rationale.txt .
-	scp jar@arkko.eu:draft-ietf-iasa2-trust-rationale-from-arkko-iasa2-trust-rationale-00.diff.html \
+	scp jar@arkko.eu:draft-ietf-iasa2-trust-rationale-from--00.diff.html \
 	    draft-ietf-iasa2-trust-rationale-diff.html
 
 copy:	$(ALL)
